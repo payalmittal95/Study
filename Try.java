@@ -1,5 +1,5 @@
 pubic class Try{
   public static void main(){
-    System.out.println("Hello");
+    System.out.println("Hello world");
   }
 }
